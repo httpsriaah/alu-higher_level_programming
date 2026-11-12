@@ -1,7 +1,12 @@
 # Python - Classes and Objects
 
-This project covers classes, objects, private attributes, properties,
-getters and setters in Python 3.
+This project introduces object-oriented programming in Python 3: classes, instances, private attributes, properties, getters and setters, and validation of attribute values.
+
+## Requirements
+
+* Ubuntu 20.04 LTS, python3 (3.8.5)
+* Code style: pycodestyle 2.7.*
+* All files are executable and documented
 
 ## Files
 
